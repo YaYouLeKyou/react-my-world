@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-my-world/static/css/main.2cf7ee98.chunk.css",
+    "main.js": "/react-my-world/static/js/main.ecf19181.chunk.js",
+    "main.js.map": "/react-my-world/static/js/main.ecf19181.chunk.js.map",
+    "runtime-main.js": "/react-my-world/static/js/runtime-main.0de2fbba.js",
+    "runtime-main.js.map": "/react-my-world/static/js/runtime-main.0de2fbba.js.map",
+    "static/js/2.15cfe42d.chunk.js": "/react-my-world/static/js/2.15cfe42d.chunk.js",
+    "static/js/2.15cfe42d.chunk.js.map": "/react-my-world/static/js/2.15cfe42d.chunk.js.map",
+    "index.html": "/react-my-world/index.html",
+    "static/css/main.2cf7ee98.chunk.css.map": "/react-my-world/static/css/main.2cf7ee98.chunk.css.map",
+    "static/js/2.15cfe42d.chunk.js.LICENSE.txt": "/react-my-world/static/js/2.15cfe42d.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/react-my-world/static/media/main.516fbcd1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0de2fbba.js",
+    "static/js/2.15cfe42d.chunk.js",
+    "static/css/main.2cf7ee98.chunk.css",
+    "static/js/main.ecf19181.chunk.js"
+  ]
+}
